@@ -54,14 +54,9 @@
 
 未完待续。
 
-香农地图对应：
-
-![[Screenshot_2026-08-07-12-51-13-898_com.google.android.apps.maps-edit 1.jpg]]
-
-
-赤塔对应：Goleniow
-香农城对应：Szczecin
-卡维尔对应：Police
-洛恩对应：Gryfino
-波伦图亚对应：Mescherin（比前面几个小很多）
+赤塔对应：Goleniow (Poland)
+香农城对应：Szczecin (Poland)
+卡维尔对应：Police (Poland)
+洛恩对应：Gryfino (Poland)
+波伦图亚对应：Mescherin（比前面几个小很多,Germany）
 暮河对应：Oder 奥德河
